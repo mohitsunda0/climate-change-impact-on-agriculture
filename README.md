@@ -21,9 +21,8 @@ pip install -r requirements.txt
 ## Results
 - Climate changes have a measurable impact on crop yields.
 - Rising temperatures and irregular rainfall patterns are primary factors.
-- [Link to full report](docs/report.pdf)
 ## Contributing
-Contributions are welcome! Please open an issue or submit a pull request. Follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
